@@ -8,4 +8,7 @@ How does the game affect television viewership?
 How have viewership, TV ratings, and ad cost evolved over time?
 Who are the most prolific musicians in terms of halftime show performances?
 
+![alt text](https://github.com/dsnewbie2021/TV-halftime-shows-and-the-Big-Game-DataCamp-project/blob/master/left_shark.jpg?raw=true)
+
+
 
